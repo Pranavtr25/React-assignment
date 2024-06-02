@@ -1,0 +1,19 @@
+
+.profile-container{
+  background-color: darksalmon;
+  border: 5px solid rgb(226 194 207 / 56%);
+  width: 230px;
+  margin: 3%;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px rgba(90, 81, 68, 0.588);
+  padding: 5%;
+}
+
+.profile-name{
+  color: rgb(255, 255, 255);
+}
+
+.profile-email{
+  color: white;
+}
